@@ -1,0 +1,9 @@
+main: me.AndreiWasFound.Gm1.Main
+name: Gm1
+version: 1.0
+author: AndreiWasFound
+description: Adds back the gm [0,1,2,3] [s,c,a,sp] to the newest minecraft version
+
+commands:
+  gm:
+  gamemode:
